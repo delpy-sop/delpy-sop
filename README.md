@@ -1,4 +1,4 @@
-# Gilles Delpy SOP FOFOU
+# Gilles Delpy SOP
 Quantitative Researcher | Financial Engineering at ESILV 
 
 I’m **Gilles SOP**, a financial engineering student at ESILV (Top 10%) with a focus on **quantitative finance**, **stochastic modeling**, and **machine learning**.  
@@ -6,7 +6,7 @@ Currently working on **filtering techniques** for **multivariate Heston models**
 
 ---
 
-## 🌱 Currently exploring:
+##  Currently exploring:
 - Particle filters for stochastic volatility estimation (univariate & multivariate Heston)
 - Neural network-based price forecasting and adaptive portfolio allocation
 - Investment simulations with S&P 500 (DCA, volatility-aware strategies)
@@ -30,10 +30,10 @@ Currently working on **filtering techniques** for **multivariate Heston models**
 **Tools:** Git, Linux, AWS (EC2), Excel/VBA  
 **Finance:** Derivatives Pricing, Monte Carlo Methods, VAR Models, Risk Metrics  
 **Certifications:** Bloomberg Market Concepts
----
+
 
 ## 📫 Contact Me  
-[LinkedIn](www.linkedin.com/in/delpy-sop-4456632a5) | [Email](mailto:delpysop@gmail.com)
+[LinkedIn](www.linkedin.com/in/delpy-sop) | [Email](mailto:delpysop@gmail.com)
 
 ---
 
