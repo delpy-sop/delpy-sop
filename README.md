@@ -32,9 +32,10 @@ Currently working on **filtering techniques** for **multivariate Heston models**
 **Certifications:** Bloomberg Market Concepts
 
 
+
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delpy-sop/)
- | 📫 [Email](mailto:delpysop@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:delpysop@gmail.com)
 
 ---
 
