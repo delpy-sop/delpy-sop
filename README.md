@@ -33,8 +33,8 @@ Currently working on **filtering techniques** for **multivariate Heston models**
 
 
 ## 📫 Contact Me  
-[LinkedIn](https://www.linkedin.com/in/delpy-sop/) | [Email](mailto:delpy.sop@email.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delpy-sop/)
+ | 📫 [Email](mailto:delpysop@gmail.com)
 
 ---
 
