@@ -1,10 +1,7 @@
 # Gilles Delpy SOP FOFOU
-Quantitative Researcher | Financial Engineering at ESILV | AI & Derivatives Modeling Enthusiast  
-Co-founder of AGROFARM+ | Particle Filtering & Heston Modeling | S&P 500 Investment Simulations  
+Quantitative Researcher | Financial Engineering at ESILV 
 
-## Hello 👋
-
-I’m @GillesSOP, a financial engineering student at ESILV (Top 10%) with a strong focus on **quantitative finance**, **stochastic modeling**, and **algorithmic investment strategies**.  
+I’m ## Gilles SOP, a financial engineering student at ESILV (Top 10%) with a strong focus on **quantitative finance**, **stochastic modeling**, and **algorithmic investment strategies**.  
 Currently working on **advanced filtering techniques** for **multivariate Heston models**, and building intelligent trading agents using **machine learning** and **reinforcement learning**.
 
 ---
